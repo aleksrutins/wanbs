@@ -1,0 +1,4 @@
+(executable
+ (public_name wanbs)
+ (name main)
+ (libraries wanbs))
