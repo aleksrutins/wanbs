@@ -1,5 +1,5 @@
 #include "wanbs.hh"
 
-auto WaNBS::Target::Fork() -> void {
+auto wanbs::Target::fork() -> void {
     
 }

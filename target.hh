@@ -1,9 +1,9 @@
 #pragma once
 
-namespace WaNBS {
+namespace wanbs {
     class Target {
     public:
-        auto Fork() -> void;
+        auto fork() -> void;
     private:
         
     };
